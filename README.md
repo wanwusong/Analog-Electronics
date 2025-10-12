@@ -18,7 +18,7 @@
 
 你可以直接在线浏览或下载：
 ```bash
-git clone https://github.com/<your-username>/Analog-Electronics.git
+git clone https://github.com/wanwusong/Analog-Electronics.git
 ```
 ---
 
